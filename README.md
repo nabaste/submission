@@ -34,7 +34,7 @@ There's a reason this tech stack is the most widely adopted:
 
 - React enables us to build UIs quickly and supports what I believe will be crucial: creating and maintaining a library of reusable components. This becomes particularly important when you're working on one- or two-week sprints to develop websites, as well as when utilizing existing UI libraries.
 - I've chosen Tailwind as my CSS framework. I've grown to appreciate its declarative style. It also boasts a strong community and a wide range of components. I've incorporated some components from Flowbite, which, while not perfect, saved me some valuable time. One notable feature is that they provide Figma files for their components as well.
-- Last but not least, Three.js. Originally, I set out to accomplish this using D3, but I believed I could take it a step further. When it comes to data visualization, I prefer to work in 3D. It's much more interactive, and Three.js provides a powerful toolkit for this purpose.
+- Last but not least, Three.js. Originally, I set out to accomplish this using D3, but I believed I could take it a step further. When it comes to data visualization, I prefer to work in 3D. It's much more interactive, and Three.js provides a powerful toolkit for this purpose. I should note that I did not do the 3D modeling: these were taken from Sketchfab.  
 
 ## License
 
